@@ -1,6 +1,6 @@
 # vrajpatel
 # 💫 About Me:
-i am currently work on E-commerce website<br>i am a Computer Engineer<br>i study in B.tech (Comp.)<br>
+i am currently work on E-commerce website<br>i am a Computer Engineer<br>i study in B.tech (CSE)<br>
 
 
 ## 🌐 Socials:
